@@ -64,8 +64,10 @@
 - **Enregistrement des scores** : Sauvegarder les meilleurs scores pour chaque joueur.
 
 ## 🖼️ Aperçu
+Voici à quoi ressemble le jeu en cours d'exécution :
 
-*(Ajoutez ici des captures d'écran ou des GIF animés montrant le gameplay.)*
+![Capture du jeu](image/capture-jeu.png)
+
 
 ## 🧑‍💻 Auteur
 

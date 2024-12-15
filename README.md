@@ -10,6 +10,13 @@
 - **Mécanique de nourriture** : Les serpents mangent pour grandir et augmenter leur score.
 - **Gestion des collisions** : Les serpents meurent en cas de collision avec un mur, un autre serpent, ou eux-mêmes.
 - **Menu de redémarrage** : Après un "Game Over", les joueurs peuvent choisir de rejouer ou de quitter le jeu.
+- **Premier serpent (vert)** : Touches fléchées (HAUT, BAS, GAUCHE, DROITE)
+- **Deuxième serpent (bleu)** : Touches W, A, S, D
+      
+      - W : Se déplacer VERS LE HAUT
+      - S : Se déplacer VERS LE BAS
+      - A : Se déplacer VERS LA GAUCHE
+      - D : Se déplacer VERS LA DROITE
 
 ## 🛠️ Technologies utilisées
 

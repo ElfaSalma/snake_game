@@ -66,8 +66,9 @@
 ## 🖼️ Aperçu
 Voici à quoi ressemble le jeu en cours d'exécution :
 
-![Capture du jeu](image/capture-jeu.png)
+![Capture du jeu](image/capture_jeux1.jpeg)
 
+[Capture du jeu](image/capture_jeux2.jpeg)
 
 ## 🧑‍💻 Auteur
 
